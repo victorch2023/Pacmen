@@ -18,6 +18,8 @@
 </p>
 
 
+
+
 ## :dart: Descripción ##
 
 El presente proyecto consiste en la combinación de archivos que hace posible que en una página web se pueda crear a voluntad una cantidad de cabezas de “Pac Man”, y con un botón luego asignarle movimiento y dirección aleatoria rebotando con los bordes de la ventana.
