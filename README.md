@@ -14,7 +14,7 @@
   <a href="#sparkles-features">Cómo ejecutar</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Roadmap</a> &#xa0; | &#xa0;
   <a href="#memo-license">Licencia</a> &#xa0; | &#xa0;
-  <a href="https://github.com/victorch2023" target="_blank">Author</a>
+  <a href="https://github.com/victorch2023" target="_blank">Autor</a>
 </p>
 
 <br>
