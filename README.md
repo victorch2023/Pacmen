@@ -47,7 +47,7 @@ A futuro se buscará ver la programación necesaria para que las cabezas de “P
 
 ## :memo: Licencia ##
 
-This project is under license from MIT. For more details, see the [./LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](./LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/victorch2023" target="_blank">victorch2023</a>
